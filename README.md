@@ -1,4 +1,4 @@
-# MonopolyTestTask
+# MonopolyTestTask Storages
 # Stack:
 - .NET 7
 - FluentAssertions
